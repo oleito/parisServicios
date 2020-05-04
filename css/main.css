@@ -101,6 +101,7 @@
 /** SERVICIOS **/
 .servicios {
   background-color: #495d97;
+  color: rgb(245, 245, 245);
 }
 .row {
   display: flex;
@@ -109,46 +110,31 @@
 
 .col {
   flex: 1 0 18%;
-  margin: 5px;
-  background: tomato;
-  height: 50px;
+  margin: 10px;
+  /* background: tomato; */
+  /* height: 50px; */
   color: white;
   display: flex;
   align-items: center;
   justify-content: center;
 }
-
-/** de planes **/
-
-/* body {
-  position: relative !important;
-  overflow-y: scroll !important;
+.servicio {
+  background-color:rgb(83, 106, 177);
 }
 
-a,
-a:hover {
-  text-decoration: none;
+
+/* FOOTER */
+.bg-footer {
+  background-color: #E6E6E6;
 }
-a:hover {
-  color: #fff !important;
+.footer-2, .footer-2 a {
+  color: #CDCECE;
+  background-color: #6E6E6D;
 }
 
-.bg-peugeot-planes {
-  background-color: #efefef;
+.footer-copyright {
+  background-color: #1F1F1F;
 }
-
-.nav-link {
-  color: black !important;
+.footer-socials{
+  font-size: 2.3em;
 }
-.nav-link:hover {
-  color: rgb(51, 51, 51) !important;
-}
-
-.formulario-contacto {
-  font-weight: bold;
-  color: #162133;
-  background-color: #ececee;
-}
-.map {
-  background-color: #ececee;
-} */
