@@ -119,22 +119,34 @@
   justify-content: center;
 }
 .servicio {
-  background-color:rgb(83, 106, 177);
+  background-color: rgb(83, 106, 177);
 }
-
 
 /* FOOTER */
 .bg-footer {
-  background-color: #E6E6E6;
+  background-color: #e6e6e6;
 }
-.footer-2, .footer-2 a {
-  color: #CDCECE;
-  background-color: #6E6E6D;
+.footer-2,
+.footer-2 a {
+  color: #cdcece;
+  background-color: #6e6e6d;
 }
 
 .footer-copyright {
-  background-color: #1F1F1F;
+  background-color: #1f1f1f;
 }
-.footer-socials{
+.footer-socials {
   font-size: 2.3em;
+}
+
+.fa-facebook-square {
+  color: #1774eb;
+}
+
+.fa-instagram {
+  color: #ca006b;
+}
+
+.fa-whatsapp {
+  color: #01d42a;
 }
